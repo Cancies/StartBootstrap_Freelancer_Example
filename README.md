@@ -2,6 +2,7 @@
 
 * This theme is a Bootstrap theme.
 * A responsive design was used. (Compatible for desktop, tablet and mobile.)
+
 https://startbootstrap.com/themes/freelancer/
 ***
 ### Screenshot 1
