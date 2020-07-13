@@ -1,6 +1,7 @@
 # StartBootstrap_Freelancer_Example
 
 * This theme is a Bootstrap theme.
+* This Bootstrap theme is made using HTML and CSS.
 * A responsive design was used. (Compatible for desktop, tablet and mobile.)
 
 https://startbootstrap.com/themes/freelancer/
